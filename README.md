@@ -8,11 +8,14 @@ This course project entails a comparitive study of how the results vary when dis
 3. WGAN   
 4. SNGAN   
 5. T-GAN   
-6. PG-GAN 
+6. PG-GAN    
+--- 
+#### CGANs:    
 7. pix2pix
 8. pix2pixHD
 9. SPADE
 10. SEAN 
+---     
 11. Video Super-Resolution GAN - Video Quality Assessment
 12. Original Diffusion Model
 
