@@ -6,19 +6,25 @@ This course project entails a comparitive study of how the results vary when dis
 1. GAN (Ian Goodfellow, 2014)    
 2. DCGAN    
 3. WGAN   
-4. SNGAN   
-5. T-GAN   
-6. PG-GAN    
---- 
-#### CGANs:    
-7. pix2pix
-8. pix2pixHD
-9. SPADE
-10. SEAN 
----     
-11. Video Super-Resolution GAN - Video Quality Assessment
-12. Original Diffusion Model
+4. SRGAN 
+5. Pro-GAN   
+6. T-GAN    (? Or cycleGAN under cGANs)    
 
+--- 
+#### cGANs:    
+7. pix2pix/pix2pixHD/SPADE/SEAN   
+
+---     
+8. Video Super-Resolution GAN - Video Quality Assessment
+9. Original Diffusion Model
+---   
+
+### text2im:    
+10. Stack GAN
+
+---   
+
+++ Literature Survey/Review       
 
 ## Done:
 
