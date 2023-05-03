@@ -24,10 +24,17 @@ This course project entails a comparitive study of how the results vary when dis
 
 ---   
 
+### Datasets Used:
+
+1. MNIST   
+2. AFHQ (Dog Subset)    
+---
+
 ++ Literature Survey/Review       
 
-## Done:
-
-
+## Done:   
+M1, M4, M11
+---   
+  
 > Aryan Garg    
 > B19153   
